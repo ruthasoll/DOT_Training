@@ -1,5 +1,3 @@
 # DOT_Training
 
-
-for frontend development 
-my first 
+Fitness mamanagement system

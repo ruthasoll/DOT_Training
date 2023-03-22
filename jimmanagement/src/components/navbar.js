@@ -30,6 +30,9 @@ const Navibar = () => {
     </div>
   </div>
 </nav>
+</nav>
+
+              <div class="mt-4 ml-6">Fitness Jim</div>
             </div>
      
    
