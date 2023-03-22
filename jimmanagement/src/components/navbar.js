@@ -15,7 +15,7 @@ const Login = () => {
 </nav>
 </nav>
 
-              <div class="mt-4 ml-6">Fitness Jim</div>
+              <div class="mt-4 ml-6">Fitness Jim center</div>
             </div>
      
    
