@@ -16,6 +16,8 @@ const Login = () => {
 </nav>
 
               <div class="mt-4 ml-6">Fitness Jim center</div>
+              <div class="mt-6">Welcome</div>
+
             </div>
      
    
