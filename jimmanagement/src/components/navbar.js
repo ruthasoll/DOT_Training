@@ -17,7 +17,7 @@ const Navibar = () => {
           <a class="nav-link navbar-brand" href="/login">Login</a>
           
         </li>
-        
+       
         
         <li class="nav-item">
           <a class="nav-link">Disabled</a>
@@ -30,9 +30,6 @@ const Navibar = () => {
     </div>
   </div>
 </nav>
-</nav>
-
-              <div class="mt-4 ml-6">Fitness Jim</div>
             </div>
      
    
