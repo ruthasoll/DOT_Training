@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DOT-Training/static/css/main.756af292.css",
+    "main.js": "/DOT-Training/static/js/main.eed1459f.js",
+    "static/js/787.942ff37f.chunk.js": "/DOT-Training/static/js/787.942ff37f.chunk.js",
+    "static/media/logo.svg": "/DOT-Training/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DOT-Training/index.html",
+    "main.756af292.css.map": "/DOT-Training/static/css/main.756af292.css.map",
+    "main.eed1459f.js.map": "/DOT-Training/static/js/main.eed1459f.js.map",
+    "787.942ff37f.chunk.js.map": "/DOT-Training/static/js/787.942ff37f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.eed1459f.js"
+  ]
+}
